@@ -1,0 +1,57 @@
+# 3 tire architecture:
+1. Font End
+2. mid End
+3. back end
+ 
+
+                  Browser--->RestCall--->Backend server----->Database--->Backend app
+                   ^
+                   |
+                   |
+              page Load
+                  |
+                  |
+                  ^
+                CDN
+CDN--- Content delivery Network
+Distribute server that deliver web content to user based on their geographic location. 
+
+REST Request:
+* Javascript code construct http request
+* Adds endpoint API URL to http method
+* Includes necessary parameters or data
+* Server gets request and return response
+* Javascript receives and process it
+* Response manifests as a UI changes
+
+
+A capable Backend
+* Intercept request
+* Extra data from request
+* Process the request
+* pull necessary data from DB
+* Process the data and prepare response
+* return the response
+
+
+Handing request
+HTTP 
+HTTP Request:
+ a message sent by client. 
+* Request line
+* Header
+* Body
+
+
+Github
+* FOrk the repository
+* CLone the repository
+* create a new branch
+* make changes
+* push your changes
+* create a pull request
+* review and discuss
+* merge or decline
+* update and delete branch
+
+
