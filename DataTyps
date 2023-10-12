@@ -1,0 +1,27 @@
+Primitive data types:
+. int
+    is used to store whole numbers. 4 bytes(32 bits) -2147483648 to 214748647
+. double
+   decimal numbers (64 bits)
+. floats    4 bytes
+. long     8 bytes
+. short    2 bytes
+. byte     1 byte
+. char     single characters
+. boolean  true or false
+
+
+
+Non primitive date types
+. String
+. Array
+. Class
+. Interface
+  collections of abstract methods. A class that implements an interface must implements all its methods.
+. Enum
+   special data type that allows the programmer to define a set of named values. possible values vs all the values together(Array)
+. Record
+   special data type that allows the programmer to define a "carrier" of data.
+
+
+
