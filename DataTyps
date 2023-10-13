@@ -23,5 +23,49 @@ Non primitive date types
 . Record
    special data type that allows the programmer to define a "carrier" of data.
 
+   Note:
+   Non primitive are references!
 
+
+  Course 2:
+  Wrapper classes
+  All primitive types(e.g. int , float, boolean) have a corresponding wrapper class(e.g. Integer, Float, Boolean)
+  Creating a wrapper class instance
+  Wrapper class has behave.
+  Constructor:
+  int i 10;
+  Integer intWrapper = new Integer(i)l  example purpose. do not use.
+  Autoboxing
+  Integer i = 10; same as above
+
+
+  Course 3:
+ Operator
+ . Addition +;
+ .
+ Relational Operator:
+ Equal tp ('==')
+ Not equal to ('!=')
+ Greater than ('>')
+ Less than ('<')
+ Greater than or equal to ('>=')
+ Less tha or equal to ('=<')
+ Logical Operators:
+ Logical AND(&&)
+ LOGICAL OR (||)
+ Logical not (!)
+
+ Operator Precedence:
+ PEMDAS
+ Parentheses, Exponents, Multiplication, Division, Addition, Subtraction
+
+ Other operator
+ Ternary
+ Instanceof
+
+ Ternary Operator:
+ int x = 5;
+ int y = 10;
+ int min;
+ min = (x < y)? x : y; // min is 5;
 
