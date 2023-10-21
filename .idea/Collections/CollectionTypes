@@ -1,0 +1,36 @@
+. list
+. Set
+. Map
+
+Collections Framework
+not library
+
+
+Benefits:
+. It's done for you
+. High-performance implementations
+. Improves code reusiability and maintainability
+. Offer good "present" dta structures
+. Common vocabulary for collections
+
+
+Data Structures:
+.
+
+What Collections Framework gives us:
+. Core interface (E.g: List)
+. sPECIFIC IMPLEMENTATION (Eg: ArrayList)
+. Abstract implementations (Eg: AbstractList)
+. Concurrent implementaions(Eg: ConcurrentHashMap)
+. Algorithms (Eg: sort, binarySearch)
+. Utilities (Eg: Arrays.compare)
+
+Collection Interfaces:
+. Collections
+. Map
+
+Java.util.collections
+
+
+Generalization
+. Flexibility vs Power
